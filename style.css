@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+body{
+    font-family:'Montserrat', sans-serif;
+    margin:0px;
+    margin-left: 8px;
+}
+
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: block;
+    margin:1.5rem auto;
+    font-size: 1.5em;
+    margin-left:2.5rem;
+    margin-top:-1.5rem;
+    margin-bottom:1.5rem;
+    align-items: baseline ;
+    font-weight: bold;
+    
+}
+nav{
+    background-color: yellow;
+    color:black;
+    font-weight:bold;
+    padding:0.5rem;
+    border-bottom-left-radius: 3rem;
+    height: 9vh;
+    margin-bottom:20px;
+
+}
+
+textarea{
+    padding:1rem;
+    width:40%;
+    display:block;
+    margin:1.5rem auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#btn-translate{
+    border-radius: 0.5rem;
+    background-color: rgb(250, 250, 10);
+    font-weight: bolder;
+    color:black;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+}
+#btn-translate:hover{
+    box-shadow: 2px 2px 5px yellowgreen;
+}
+.container {
+    
+    margin: auto;
+    text-align: center;
+}
+
+.container-fluid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.footer{
+    background-color:yellow;
+    color:white;
+    border-top-right-radius: 3rem;
+
+}
+.footer-heading{
+   padding-top:19px;
+   text-align:center;
+   font-weight:bolder;
+   color:maroon;
+}
+.footer-list{
+       list-style: none;
+       text-align:center;
+       padding-inline-start: 0px;
+   
+}
+.footer-item{
+   display:inline-block;
+   padding:1rem 1rem;
+}
+.footer-link{
+   text-decoration: none;
+   color: rgb(25, 151, 134);
+   font-weight: bolder;
+   border-radius: 8rem;
+  
+  
+}
+.footer-link:hover{
+   
+   box-shadow: 2px 2px 5px yellowgreen;
+}
+h3{
+    font-size:10px;
+    text-align:center;
+    padding-inline-start: 0px;
+    color:maroon;
+    padding-bottom:10px;
+}
+#id1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:14px;
+    font-weight: bolder;
+}
