@@ -6,6 +6,13 @@ body{
     font-family:'Montserrat', sans-serif;
     margin:0px;
     margin-left: 8px;
+    background-image: url("images/minions.jpg");
+    background-color: #cccccc;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 .heading{
